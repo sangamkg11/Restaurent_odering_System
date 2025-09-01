@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.18.0"
+  },
+  "name": "restaurant_pos_system",
+  "version": "1.0.0",
+  "description": "A full-featured **Restaurant POS System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amritmaurya1504/Restaurant_POS_System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amritmaurya1504/Restaurant_POS_System/issues"
+  },
+  "homepage": "https://github.com/amritmaurya1504/Restaurant_POS_System#readme"
+}
